@@ -1,16 +1,11 @@
-
-import streamlit as st
-import preprocessor
-import helper
-import matplotlib.pyplot as plt
-import seaborn as sns
-import plotly.graph_objs as go
-from wordcloud import WordCloud
-import pandas as pd
-
-from urlextract import URLExtract
-from wordcloud import WordCloud
-import pandas as pd
-from collections import Counter
-import emoji
-from textblob import TextBlob  # For sentiment analysis
+pandas
+numpy
+streamlit
+matplotlib
+seaborn
+plotly
+wordcloud
+urlextract
+collections
+emoji
+textblob
